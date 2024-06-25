@@ -91,6 +91,7 @@ section#Home .grid > div:nth-child(1) {
 }
 div.home_content {
   flex-direction: column;
+  z-index:1;
 }
 section#Home span,
 .home_name {
